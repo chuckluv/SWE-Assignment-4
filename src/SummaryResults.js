@@ -1,5 +1,5 @@
 import React from 'react';
-import './SummaryResults.css';
+import './FoundSolutions.css';
 
 function SummaryResults({ words, totalTime}) {
 
